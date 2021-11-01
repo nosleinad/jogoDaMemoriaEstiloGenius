@@ -15,7 +15,7 @@ body,
 #main-game {
     --pad-size: 200px;
     --big-radius: 100%;
-    --small-radius: 20%;
+    --small-radius: 5%;
     --gap: 5px;
     --board-size: calc((var(--pad-size) * 2) + (var(--gap) * 4));
     --dark: #262626;
